@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-1/static/css/main.ac8c198b.css",
+    "main.js": "/react-1/static/js/main.38174354.js",
+    "static/media/groomer3.png": "/react-1/static/media/groomer3.b2e929b033cbebbcb7eb.png",
+    "static/media/groomer2.png": "/react-1/static/media/groomer2.07504f6d006b4e0b6b29.png",
+    "static/media/gat1.jpg": "/react-1/static/media/gat1.cd0980b057eb6d9d0cf4.jpg",
+    "static/media/vet.jpg": "/react-1/static/media/vet.261d78450f6ec2c1b1c9.jpg",
+    "static/media/dog.jpg": "/react-1/static/media/dog.c74321334d9729f98e74.jpg",
+    "static/media/dogg2.jpg": "/react-1/static/media/dogg2.8a060afaa4924233c08d.jpg",
+    "static/media/catblack.png": "/react-1/static/media/catblack.19b555ca91fb510eb670.png",
+    "index.html": "/react-1/index.html",
+    "static/media/iconmonstr-angel-left-thin.svg": "/react-1/static/media/iconmonstr-angel-left-thin.b74b51c4c35fb292f28d63a42b7d73c9.svg",
+    "static/media/iconmonstr-angel-right-thin.svg": "/react-1/static/media/iconmonstr-angel-right-thin.b282d2fca8839e80178c1a178ce23993.svg",
+    "main.ac8c198b.css.map": "/react-1/static/css/main.ac8c198b.css.map",
+    "main.38174354.js.map": "/react-1/static/js/main.38174354.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac8c198b.css",
+    "static/js/main.38174354.js"
+  ]
+}
