@@ -1,0 +1,6 @@
+.products{
+    background: linear-gradient(45deg, #fbda61, #ff5acd);
+    display: flex;
+    flex-direction: column;
+    padding-top:100px ;
+}

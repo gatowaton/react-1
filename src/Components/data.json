@@ -1,0 +1,35 @@
+{
+    "products":[
+        {
+            "image":"https://assets.petco.com/petco/image/upload/c_pad,dpr_1.0,f_auto,q_auto,h_636,w_636/c_pad,h_636,w_636/l_best-seller-badge,fl_relative,w_0.2,g_north_west,e_sharpen/2986221-center-1",
+            "title":"Dog Food",
+            "price":500,
+            "description":"41 LBS adult Pro-Plan"
+        },
+        {
+            "image":"https://cdnx.jumpseller.com/k-n-mascotas/image/12295750/resize/540/600?1644290089",
+            "title":"Bird Food",
+            "price":470,
+            "description":"Mazuri Small Bird ."
+        },
+        {
+            "image":"https://bestforpets.cl/tienda/17334-large_default/adultos-delicias-carne.jpg",
+            "title":"Cat Food",
+            "price":560,
+            "description":"Cat Chow Adults with Defense Plus."
+        },
+        {
+            "image":"https://www.amigales.cl/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/h/a/hamster.jpg",
+            "title":"Hamster Food",
+            "price":280,
+            "description":"Super complete food for hamsters."
+        },
+        {
+            "image":"https://www.bigos.cl/234-superlarge_default/mazuri-tortuga-de-agua-340-grs.jpg",
+            "title":"Turtle Food",
+            "price":100,
+            "description":"Food for water turtles."
+        }
+    ]
+}
+

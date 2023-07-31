@@ -1,0 +1,21 @@
+.footer{
+    background: #fff;
+    height: 10em;
+    margin: 0;
+    box-shadow: 0 15px 50px rgba(0,0,0,0.35);
+}
+.footermid{
+    display: flex;
+    height: 9em;
+    flex-direction: column-reverse;
+    margin: auto;
+    align-items: center;
+}
+.footermid p{
+    margin-top: 1px;
+    color: black;
+}
+.footermid img{
+    margin-bottom: 2px;
+    width: 6em;
+}
