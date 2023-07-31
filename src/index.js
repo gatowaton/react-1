@@ -14,7 +14,7 @@ root.render(
     <BrowserRouter>
     <Navbar/>
       <Routes>
-        <Route path='/' element={<App/>}/>
+        <Route path='/react-1' element={<App/>}/>
         <Route path='/products'element={<Products/>}/>
         <Route path='/contact'element={<Mail/>}/>
       </Routes>

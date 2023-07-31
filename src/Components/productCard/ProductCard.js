@@ -8,7 +8,7 @@ function ProductCard({products}) {
         Object.entries(products).map(([id, {title,price,image,description}])=>(
             <div key={id} className='product_card'>
             <div className='imgBx'>
-                <img src={image} alt="" />
+                <img src={image} alt="aaa" />
             </div>
             <div className='content'>
                 <div className='detailsP'>
